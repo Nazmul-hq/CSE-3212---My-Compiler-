@@ -1,0 +1,47 @@
+//this is a sample input
+
+INC <stdio.H>
+INC <stdlib.H>
+
+NUM  num1 cm num2 sm
+a eq 2 sm
+b eq 3 sm
+
+
+// if else statements
+
+IF lp b gt a rp   a pls b sm
+
+IF lp a gt b rp   a pls b sm   Else b mns a sm
+
+IF lp a lt b rp   IF lp a gt b rp a pls b sm   Else b mul a sm 	  sm  Else b div a sm 
+
+b mod a
+p eq a mns b sm
+
+
+SWITCH lp 2 rp lb  CASE 1 col 10 pls 20 sm  CASE 2 col 20 mns 10 sm   DEFAULT col 100 pls 1 sm rb
+
+
+//loop
+FOR lp 1 sm 5 rp lb 2 pls 3 rb
+
+WHILE lp 2 gt 1 rp lb 5 pls 5 rb
+
+//mathematical expression
+sin ( 30 )
+cos ( 30 )
+tan ( 30 )
+log ( 30 )
+
+// Built in Function
+
+FACTORIAL lp 5 rp sm
+
+ODDEVEN lp 10 rp sm
+
+GCD lp 20 cm 28 rp sm
+
+LCM lp 5 cm 7 rp sm
+
+PRIME lp 5 rp sm

@@ -1,0 +1,37 @@
+Valid identifier
+
+value of expression in IF: 5
+value of expression in ELSE: 1
+value of expression in Nested else: 6
+1
+
+Case No : 1 & expression value :30 
+
+Case No : 2 & expression value :10 
+Default case & expression value : 101
+value of the for loop: 1 expression value: 5
+value of the for loop: 2 expression value: 5
+value of the for loop: 3 expression value: 5
+value of the for loop: 4 expression value: 5
+
+value of the while loop: 1 expression value: 10
+value of the while loop: 2 expression value: 10
+
+Value of Sin(30) is 0.500001
+Value of Cos(30) is 0.866025
+Value of Tan(30) is 0.577352
+Value of Log(30) is 1.476855
+FACTORIAL of 5 is : 120
+Number : 10 is Even
+Gcd of 20 and 28 = 4
+Lcm of 5 and 7 = 35
+
+5 is prime
+
+Headers=2
+Comments=5
+Identifiers=2
+Operators=25
+Punctuations=56
+Keywords=14
+BuiltIn_Function=5
